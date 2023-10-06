@@ -1,0 +1,2 @@
+1. 运行for_redistribution中的MyAppInstaller_mcr.exe文件，安装Matlab Runtime；如果电脑里面有Matlab，此步或许可以跳过
+2. 运行for_redistribution_files_only中的.exe文件
