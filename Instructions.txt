@@ -1,0 +1,5 @@
+1. 文件包括：程序设计说明文档（PDF版）；程序源代码；可执行文件（双支节调配器\Double_stub\for_redistribution_files_only\Double_stub.exe）
+2. 程序开发环境：Matlab R2021b    开发语言：Matlab语言
+3. 程序使用步骤说明：
+（1）首先，运行“双支节调配器\Double_stub\for_redistribution\MyAppInstaller_mcr.exe”, 安装Matlab Runtime；如果电脑中已经安装过，此步或许可以跳过；
+（2）运行“双支节调配器\Double_stub\for_redistribution_files_only\Double_stub.exe”
