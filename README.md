@@ -13,39 +13,9 @@ This project provides a tool for performing theoretical calculations for the len
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- Required libraries: `numpy`, `matplotlib`
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shaoting-Feng/Double-Stub-Matching.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Double-Stub-Matching
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Run the main script to perform calculations and generate Smith charts:
-   ```bash
-   python main.py
-   ```
-
-2. Follow the instructions in the `Instructions.txt` file for detailed usage.
+1. Run the `MyAppInstaller_mcr.exe` file in the `for_redistribution` folder to install Matlab Runtime; if you already have Matlab installed, you might be able to skip this step.
+2. Run the `.exe` file in the `for_redistribution_files_only` folder.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the contributors and the open-source community.
